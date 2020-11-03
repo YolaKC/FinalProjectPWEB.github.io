@@ -53,14 +53,14 @@
 }
 .bg {
 	width: 100%;
-	height: 2900px;
+	height: 3100px;
 	background-image: url(Photo\ by\ @srhwgxx.png);
 	background-size: cover;
 	margin-top: 20px;
 }
 .kotak1 {
 	width:900px;
-	height:2800px;
+	height:3000px;
 	background-color: #E3EEF4;
 	margin: 0 auto;
 	padding-top: 20px;
@@ -108,6 +108,7 @@
 }
 .latihan p {
     margin-left: 40px;
+    margin-top: 10px;
 	font-size: 15px;
 	color: black;
 	text-align: justify;
