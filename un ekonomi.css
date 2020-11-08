@@ -53,14 +53,14 @@
 }
 .bg {
 	width: 100%;
-	height: 3700px;
+	height: 2700px;
 	background-image: url(watercolor-1.jpg);
 	background-size: cover;
 	margin-top: 20px;
 }
 .kotak1 {
 	width:900px;
-	height:3500px;
+	height:2500px;
 	background-color: #E3EEF4;
 	margin: 0 auto;
 	padding-top: 20px;
