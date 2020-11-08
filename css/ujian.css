@@ -125,7 +125,7 @@
 }
 .jenis1 {
 	width: 100%;
-	height: 600px;
+	height: 350px;
 	overflow: hidden;
 	background-image: url(watercolor-1.jpg);
 	border-radius: 20px;
@@ -151,10 +151,10 @@
 	text-align: center;
 	font-size: 20px;
 }
-.biologi:hover {
+.ipa:hover {
 	box-shadow: 0px 0px 10px 5px #888888;
 }
-.biologi {
+.ipa {
 	width: 175px;
 	height: 175px;
 	background-color:#f0dce5;
@@ -166,29 +166,8 @@
 	box-sizing: border-box;
 	padding-top: 60px;
 }
-.biologi a {
+.ipa a {
 	color: #1B6678;
-	text-decoration: none;
-	text-align: center;
-	font-size: 20px;
-}
-.fisika:hover {
-	box-shadow: 0px 0px 10px 5px #888888;
-}
-.fisika {
-	width: 175px;
-	height: 175px;
-	background-color: #f0dce5;
-	margin-top: 30px;
-	margin-left: 94px;
-	float: left;
-	border-radius: 20px;
-	text-align: center;
-	box-sizing: border-box;
-	padding-top: 60px;
-}
-.fisika a {
-	color:#1B6678;
 	text-decoration: none;
 	text-align: center;
 	font-size: 20px;
@@ -222,7 +201,7 @@
 	height: 175px;
 	background-color:#f0dce5;
 	margin-top: 30px;
-	margin-left: 10px;
+	margin-left: 94px;
 	float: left;
 	border-radius: 20px;
 	text-align: center;
