@@ -37,7 +37,7 @@
 	top: 0;
 	right: 0;
     box-sizing: border-box;
-    background-color: #c9cfd6;
+    background-color: #E3EEF4;
 	padding: 40px;
 	width: 500px;
     height: 722px;
@@ -97,7 +97,7 @@ input[type="submit"]{
 	margin-bottom: 20px;
 	width: 270px;
 	height: 32px;
-	background: #404447;
+	background: #1e90ff;
 	border: none;
 	border-radius: 2px;
 	color: #fff;
